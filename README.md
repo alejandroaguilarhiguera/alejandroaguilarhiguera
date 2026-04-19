@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer | Tech Lead
 
-With over 11 years of experience in Full Stack Development, I specialize in building and scaling web applications. Skilled in ReactJS, Node.js, NestJS, MongoDB, and MySQL, I have led projects across both frontend and backend, creating robust microservices and implementing CI/CD automation using Docker. I’m passionate about leveraging technology to solve complex problems and deliver high-quality, scalable software.
+With over 13 years of experience in Full Stack Development, I specialize in building and scaling web applications. Skilled in ReactJS, Node.js, NestJS, MongoDB, and MySQL, I have led projects across both frontend and backend, creating robust microservices and implementing CI/CD automation using Docker. I’m passionate about leveraging technology to solve complex problems and deliver high-quality, scalable software.
 
 🚀 Technical Skills
 
